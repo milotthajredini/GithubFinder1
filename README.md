@@ -1,1 +1,1 @@
-# CoctailFinder
+# GitHubFinder
